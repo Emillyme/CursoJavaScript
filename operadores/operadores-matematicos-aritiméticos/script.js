@@ -7,6 +7,7 @@ let salario = 100;
 // * = multiplicação
 // / = divisão
 // ** = exponencial
+// % = MODULUS: Ele é usado para obter o resto de um problema de divisão.
 
 console.log(salario + salario);
 console.log(salario - salario);
