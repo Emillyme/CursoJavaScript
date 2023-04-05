@@ -40,3 +40,17 @@ function Caderno(tamanhoFolha, numeroFolha, corCaderno){
 
 const caderno = new Caderno('7x7', 400, 'vermelho')
 console.log(caderno);
+
+
+
+//MAIS:
+
+//COMO CLONAR OBJETOS
+const novoObjeto = Object.assign({ 
+    bateria: 5000
+}, celular)
+console.log(novoObjeto);
+
+const objeto2 = {...Celular};
+console.log(objeto2);
+//https://youtu.be/i6Oi-YtXnAU?t=9814
