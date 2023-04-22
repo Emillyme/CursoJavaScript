@@ -13,7 +13,6 @@ console.log(marca);
 
 
 //exercicio rapido
-
 const vestidos = [
     {tamanho: 'G', cor: 'Vermelho'},
     {tamanho: 'PP', cor: 'Azul'},
