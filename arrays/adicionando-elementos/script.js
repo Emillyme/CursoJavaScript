@@ -7,7 +7,8 @@ console.log(numeros);
 
 // Meio
 numeros.splice(1,0,'a');
-    //(1,0,'a') = numero que vai iniciar(substituir no ARRAY), numero que vai deletar(colocamos 0 pq n vamos deletar nada), numero que vai adicionar
+    //(1,0,'a') = numero que vai iniciar(substituir no ARRAY), 
+    //numero que vai deletar(colocamos 0 pq n vamos deletar nada), numero que vai adicionar
 console.log(numeros);
 
 // Final
